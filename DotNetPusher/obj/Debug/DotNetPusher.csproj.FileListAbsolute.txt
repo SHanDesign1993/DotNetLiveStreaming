@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\DotNetPusher-master\Bin\DotNetPusher.dll
+C:\Users\user\Desktop\DotNetPusher-master\Bin\DotNetPusher.pdb
+C:\Users\user\Desktop\DotNetPusher-master\DotNetPusher\obj\Debug\DotNetPusher.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DotNetPusher-master\DotNetPusher\obj\Debug\DotNetPusher.dll
+C:\Users\user\Desktop\DotNetPusher-master\DotNetPusher\obj\Debug\DotNetPusher.pdb
